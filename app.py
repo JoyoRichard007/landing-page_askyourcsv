@@ -410,8 +410,7 @@ st.markdown("<h2 class='section-title'>Questions fréquentes</h2>", unsafe_allow
 faqs = [
     ("🔐 Mes données sont-elles sécurisées ?", "Oui ! Vos données ne sont jamais stockées sur nos serveurs. Dans le playground, vous utilisez votre propre clé API, garantissant une confidentialité totale."),
     ("🤖 Quels modèles d'IA puis-je utiliser ?", "AskYourCSV supporte Google Gemini et OpenAI GPT. Vous pouvez choisir le modèle qui correspond le mieux à vos besoins dans la configuration."),
-    ("📱 Comment accéder au bot Telegram ?", "Recherchez @AskYourCSV_bot sur Telegram et démarrez la conversation avec /start. C'est gratuit et instantané !"),
-    ("💰 Y a-t-il des frais cachés ?", "Aucun ! Le playground est totalement gratuit. Vous ne payez que si vous choisissez un plan Pro pour des fonctionnalités avancées."),
+    ("📱 Comment accéder au bot Telegram ?", "Recherchez @askyourcsv_bot sur Telegram et démarrez la conversation avec /start. C'est gratuit et instantané !"),
 ]
 
 for question, answer in faqs:
