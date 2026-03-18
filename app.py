@@ -319,7 +319,7 @@ with col1:
     <div class="feature-card">
         <div class="feature-icon">🔍</div>
         <h3>Analyse Intelligente</h3>
-        <p>Posez des questions en français sur vos données. Notre IA comprend le contexte et fournit des réponses précises basées sur vos fichiers.</p>
+        <p>Posez des questions sur vos données. Notre IA comprend le contexte et fournit des réponses précises basées sur vos fichiers.</p>
     </div>
     """, unsafe_allow_html=True)
 
