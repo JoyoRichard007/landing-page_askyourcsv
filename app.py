@@ -2,6 +2,14 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 
+# Forcer le thème clair
+st.config.set_option('theme.base', 'light')
+st.config.set_option('theme.primaryColor', '#667eea')  # Vos couleurs
+st.config.set_option('theme.backgroundColor', '#ffffff')
+st.config.set_option('theme.secondaryBackgroundColor', '#f0f2f6')
+st.config.set_option('theme.textColor', '#262730')
+st.config.set_option('theme.font', 'sans serif')
+
 # Configuration de la page
 st.set_page_config(
     page_title="AskYourCSV - Assistant IA pour vos données",
@@ -456,8 +464,8 @@ st.markdown("""
         <div>
             <h4 style="color: white; margin-bottom: 1rem;">Contact</h4>
             <ul style="list-style: none; padding: 0; color: #a0aec0;">
-                <li style="margin-bottom: 0.5rem;">contact@askyourcsv.com</li>
-                <li style="margin-bottom: 0.5rem;">@AskYourCSV</li>
+                <li style="margin-bottom: 0.5rem;">dimension.adresse@gmail.com</li>
+                <li style="margin-bottom: 0.5rem;">@ Dimension</li>
             </ul>
         </div>
     </div>
