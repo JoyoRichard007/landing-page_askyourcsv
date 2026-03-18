@@ -465,7 +465,7 @@ st.markdown("""
             <h4 style="color: white; margin-bottom: 1rem;">Contact</h4>
             <ul style="list-style: none; padding: 0; color: #a0aec0;">
                 <li style="margin-bottom: 0.5rem;">dimension.adresse@gmail.com</li>
-                <li style="margin-bottom: 0.5rem;">@ Dimension</li>
+                <li style="margin-bottom: 0.5rem;">@ Dimension Technology</li>
             </ul>
         </div>
     </div>
