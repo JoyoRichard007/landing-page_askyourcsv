@@ -298,7 +298,7 @@ st.markdown("""
     <h1>AskYourCSV</h1>
     <p>Transformez vos fichiers CSV en conversations intelligentes.<br>Posez des questions en langage naturel, obtenez des réponses instantanées.</p>
     <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
-        <a href="https://askyourcsv.dimension-technology.com" target="_self" class="cta-button">🎯 Essayer le playground</a>
+        <a href="https://askyourcsv-playground-production.up.railway.app" target="_self" class="cta-button">🎯 Essayer le playground</a>
         <a href="https://t.me/askyourcsv_bot" target="_blank" class="cta-button secondary">📱 Découvrir le bot Telegram</a>
     </div>
     <p style="margin-top: 2rem; font-size: 0.9rem; opacity: 0.8;">
@@ -431,7 +431,7 @@ st.markdown("""
     <h2 style="color: white; font-size: 2.5rem; margin-bottom: 1rem;">Prêt à transformer vos données ?</h2>
     <p style="color: white; font-size: 1.2rem; opacity: 0.9; margin-bottom: 2rem;">Rejoignez des milliers d'utilisateurs qui analysent leurs CSV plus intelligemment</p>
     <div style="display: flex; gap: 1rem; justify-content: center;">
-        <a href="https://askyourcsv.dimension-technology.com" target="_self" class="cta-button" style="background: white; color: #667eea;">🎯 Essayer maintenant</a>
+        <a href="https://askyourcsv-playground-production.up.railway.app" target="_self" class="cta-button" style="background: white; color: #667eea;">🎯 Essayer maintenant</a>
         <a href="https://t.me/askyourcsv_bot" target="_blank" class="cta-button" style="background: transparent; border: 2px solid white; color: white;">📱 Tester le bot</a>
     </div>
 </div>
