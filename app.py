@@ -7,17 +7,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-st.markdown("""
-        <style>
-               .block-container {
-                    padding-top: 1rem;
-                    padding-bottom: 0rem;
-                    padding-left: 5rem;
-                    padding-right: 5rem;
-                }
-        </style>
-        """, unsafe_allow_html=True)
-
 
 st.html("""
 <style>
@@ -294,7 +283,7 @@ st.html("""
       <a href="#features">Features</a>
       <a href="#how">How it works</a>
       <a href="#charts">Charts</a>
-      <a href="http://localhost:8502" class="btn btn-primary" target="_self">Playground →</a>
+      <a href="https://askyourcsv-playground-production.up.railway.app" class="btn btn-primary" target="_self">Playground →</a>
     </div>
   </div>
 </div>
@@ -307,7 +296,7 @@ st.html("""
     <h1 class="display">Talk to your <em>spreadsheets</em>.</h1>
     <p class="lede">Drop a CSV or Excel. Ask questions. Get interactive charts.</p>
     <div class="hero-ctas">
-      <a href="http://localhost:8502" class="btn btn-primary" target="_self">Open Playground →</a>
+      <a href="https://askyourcsv-playground-production.up.railway.app" class="btn btn-primary" target="_self">Open Playground →</a>
       <a href="https://t.me/askyourcsv_bot" class="btn" target="_blank">Telegram Bot</a>
     </div>
     <div class="hero-meta"><b>No signup</b> · Your own API key · 100% private</div>
@@ -848,7 +837,7 @@ df.groupby(['region','month'])
         <p>Free tier includes 3 files, unlimited questions. No credit card.</p>
       </div>
       <div style="display:flex;gap:10px;flex-wrap:wrap">
-        <a href="http://localhost:8502" class="btn btn-primary" target="_self">Open Playground →</a>
+        <a href="https://askyourcsv-playground-production.up.railway.app" class="btn btn-primary" target="_self">Open Playground →</a>
         <a href="https://t.me/askyourcsv_bot" class="btn" target="_blank">Telegram Bot</a>
       </div>
     </div>
@@ -869,7 +858,7 @@ df.groupby(['region','month'])
       <a href="#features">Features</a>
       <a href="#how">How it works</a>
       <a href="#charts">Charts</a>
-      <a href="http://localhost:8502" target="_self">Playground</a>
+      <a href="https://askyourcsv-playground-production.up.railway.app" target="_self">Playground</a>
       <a href="https://t.me/askyourcsv_bot" target="_blank">Telegram</a>
     </div>
   </div>
